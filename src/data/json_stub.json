@@ -1,24 +1,24 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
+        "name": "Nick K",
+        "label": "Software Engineer",
         "picture": "",
-        "email": "john.doe@mail.com",
+        "email": "nick@musthaveskill.com",
         "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "website": "http://musthaveskill.com",
+        "summary": "A brief overview of progress6 as it should be...",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
+            "address": "USA",
+            "postalCode": "12345",
+            "city": "Anywhere",
             "countryCode": "US",
-            "region": "California"
+            "region": "Virginia"
         },
         "profiles": [
             {
                 "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
+                "username": "musthaveskill",
+                "url": "http://twitter.com/musthaveskill"
             }
         ]
     },
